@@ -29,10 +29,6 @@ O Todo Avançado é uma aplicação de lista de tarefas baseada na web com recur
 
 3. Comece a gerenciar suas tarefas de forma eficiente!
 
-## Capturas de Tela
-
-![Captura de Tela do Todo Avançado](/caminho/para/captura-de-tela.png)
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
